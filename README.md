@@ -2,9 +2,7 @@
 
 A RESTful API that mimicks a basic social network, allowing users to add friends, create thoughts, and react to thoughts. This API is built with express, node.js, and MongoDB, using the Mongoose wrapper. It follows the MVC paradigm.
 
-https://user-images.githubusercontent.com/
-
-
+https://user-images.githubusercontent.com/72160963/210501983-15117db1-904d-4a95-8227-9a26953184f7.mov
 
 ## License
 
